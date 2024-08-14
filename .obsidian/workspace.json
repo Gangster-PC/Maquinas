@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "30ffcde37fa5189c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e491a11942c01fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d25fb07daecb71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAQUINAS/Dockerlabs/Facil/Mirame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "431bcebf3245af0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAQUINAS/Dockerlabs/Facil/ConsoleLog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a97541285a2c02e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea66b687116c1397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f580e68092d69b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d54cd328f50b0c37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "puertos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc35bdd3f1df3b51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0af7cb4c9fe084cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca2ac4ae07514f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c533d9e8eac3cfe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MAQUINAS/Dockerlabs/Facil/ConsoleLog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ebab87e7ed8ad12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MAQUINAS/Dockerlabs/Facil/ConsoleLog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0bcf9f0f9f48040",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e158eb44e911f882",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MAQUINAS/Dockerlabs/Facil/ConsoleLog.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5f580e68092d69b1",
+  "lastOpenFiles": [
+    "Pasted image 20240705201856.png",
+    "Pasted image 20240705201708.png",
+    "Pasted image 20240705201619.png",
+    "Pasted image 20240705195243.png",
+    "Pasted image 20240705195059.png",
+    "Pasted image 20240705195012.png",
+    "Pasted image 20240705194915.png",
+    "Pasted image 20240705194720.png",
+    "Pasted image 20240705194549.png",
+    "Pasted image 20240705194532.png",
+    "Pasted image 20240705194435.png",
+    "MAQUINAS/Dockerlabs/Facil/Mirame.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Zapasguapas.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Templo.md",
+    "MAQUINAS/Dockerlabs/Muy facil/BorazuwarahCTF.md",
+    "MAQUINAS/TheHackerLabs/Avanzado/Buda.md",
+    "MAQUINAS/Dockerlabs/Facil/Showtime.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Paella.md",
+    "MAQUINAS/TheHackerLabs/Avanzado/Huevos Fritos.md",
+    "MAQUINAS/Dockerlabs/Facil/Psycho.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Cyberpunk.md",
+    "MAQUINAS/Dockerlabs/Facil/Winterfell.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Academy.md",
+    "MAQUINAS/TheHackerLabs/Avanzado/Debugsec.md",
+    "MAQUINAS/TheHackerLabs/Avanzado/Debugsec 1.md",
+    "MAQUINAS/TheHackerLabs/Avanzado/Cachopo.md",
+    "MAQUINAS/Dockerlabs/Medio/Cachopo.md",
+    "MAQUINAS/TheHackerLabs/Avanzado/Webos.md",
+    "MAQUINAS/Dockerlabs/Medio/Sites.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Fruits.md",
+    "MAQUINAS/TheHackerLabs/Principiante/SalYAzucar.md",
+    "MAQUINAS/TheHackerLabs/Avanzado/MelonJamon.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Microchoft-W.md",
+    "MAQUINAS/TheHackerLabs/Avanzado",
+    "MAQUINAS/Dockerlabs/Medio/Wallet.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Mortadela.md",
+    "MAQUINAS/TheHackerLabs/Principiante/Grillo.md",
+    "Sin título.canvas",
+    "MAQUINAS/TheHackerLabs/Principiante",
+    "MAQUINAS/TheHackerLabs",
+    "MAQUINAS/Dockerlabs/Muy facil/Injection",
+    "Images",
+    "MAQUINAS/Dockerlabs/Muy facil/Trust",
+    "MAQUINAS/Dockerlabs/Sin título.canvas",
+    "MAQUINAS/Dockerlabs/Muy facil",
+    "MAQUINAS/Dockerlabs/Medio",
+    "MAQUINAS/Dockerlabs/Facil",
+    "MAQUINAS/Sin título"
+  ]
+}
